@@ -1,5 +1,5 @@
 comando vaciar dns =ipconfig/flushdns
-ver si nuesro sistema es genuino o pirata =slmgr.vbs /dli ,si salen muchas lineas es pirata
+ver si nuestro sistema es genuino o pirata =slmgr.vbs /dli ,si salen muchas lineas es pirata
 como hacer que windows te notifique cuando se encienda la camara =regedit y la ruta= Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OEM\Device\Capture y en informacion del decimal te saldra cero,tendras que cambiarlo por 1
 reparar windows= cms admin ,dism /online /cleanup-image /restorehealth
 ver si el equipo tiene problemas con la memoria ram =win+r y mdsched.exe
